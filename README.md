@@ -1,5 +1,7 @@
 ### Hi There :wave: I'm Rowy
 
+![](https://discord.c99.nl/widget/theme-2/824905140229898240.png)
+
 ![](https://komarev.com/ghpvc/?username=RowyHere&label=PROFILE+VIEWS)
 
 ### Spotify Playing :headphones:
