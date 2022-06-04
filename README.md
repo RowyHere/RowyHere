@@ -1,7 +1,6 @@
 ### Hi There :wave: I'm Rowy
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/945003506912342037
-                            )](https://discord.com/users/945003506912342037)
+[![Discord Presence](https://lanyard.cnrad.dev/api/964442972676587560)](https://discord.com/users/964442972676587560)
 
 ![](https://komarev.com/ghpvc/?username=RowyHere&label=PROFILE+VIEWS)
 
