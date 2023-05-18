@@ -7,13 +7,13 @@ Hi, my name is Yasin and I'm 18 yo. I started software development 3 year ago wi
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/1073113233264746547" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/1073113233264746547"></a>
+    <a href="https://discord.com/users/465646793401565186" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/465646793401565186"></a>
 </div>
 
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/1008792770414116914" target="_blank"><img src="https://shields.io/badge/Rowy-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://discord.com/users/465646793401565186" target="_blank"><img src="https://shields.io/badge/Rowy-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/rowyhere" target="_blank"><img src="https://shields.io/badge/RowyHere-111111.svg?&style=for-the-badge&logo=github"></a>
     <a href="https://www.npmjs.com/~rowyhere" target="_blank"><img src="https://shields.io/badge/RowyHere-111111.svg?&style=for-the-badge&logo=npm"></a>
     <a href="https://instagram.com/rowycim" target="_blank"><img src="https://shields.io/badge/Rowycim-111111.svg?&style=for-the-badge&logo=instagram"></a>
