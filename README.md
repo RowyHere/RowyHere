@@ -7,7 +7,7 @@ Hi, my name is Yasin and I'm 18 yo. I started software development 3 year ago wi
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/1119343996616069180" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/465646793401565186"></a>
+    <a href="https://discord.com/users/1119343996616069180" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/1119343996616069180"></a>
 </div>
 
 ## ⚡ Contact
