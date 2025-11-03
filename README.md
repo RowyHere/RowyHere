@@ -1,22 +1,22 @@
 # ✨ Say Hello!
 
-Hi, my name is Yasin and I'm 18 yo. I started software development 3 year ago with developing Discord bots. And i continued to develop myself in the direction of html and javascript, i still learning new stuff in programming. I'm realizing my big projects right now, i'm a JavaScript, TypeScript, Python, CSS, HTML and Vue developer. he database it usually my uses is "mongodb". You can follow me for more information!
+Hi, my name is Yasin and I'm 20 yo. I started software development 5 year ago with developing Discord bots. And i continued to develop myself in the direction of html and javascript, i still learning new stuff in programming. I'm realizing my big projects right now, i'm a JavaScript, TypeScript, Python, CSS, HTML and Vue developer. he database it usually my uses is "mongodb". You can follow me for more information!
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=rowyhere&color=32CD32"/>
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/1119343996616069180" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/1119343996616069180"></a>
+    <a href="https://discord.com/users/1318282951833681970" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/1318282951833681970"></a>
 </div>
 
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/465646793401565186" target="_blank"><img src="https://shields.io/badge/Rowy-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://discord.com/users/1318282951833681970" target="_blank"><img src="https://shields.io/badge/Rowy-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/rowyhere" target="_blank"><img src="https://shields.io/badge/RowyHere-111111.svg?&style=for-the-badge&logo=github"></a>
     <a href="https://www.npmjs.com/~rowyhere" target="_blank"><img src="https://shields.io/badge/RowyHere-111111.svg?&style=for-the-badge&logo=npm"></a>
-    <a href="https://instagram.com/rowycim" target="_blank"><img src="https://shields.io/badge/Rowycim-111111.svg?&style=for-the-badge&logo=instagram"></a>
+    <a href="https://instagram.com/rowycik" target="_blank"><img src="https://shields.io/badge/Rowycim-111111.svg?&style=for-the-badge&logo=instagram"></a>
 </div>
 
 ## 💻 Technologies I Use
